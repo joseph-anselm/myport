@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-family: 'Libre Baskerville', serif;
 }
 
 body {
@@ -35,6 +37,7 @@ body {
 }
 
 h2 {
+    margin-top: 1em;
     font-family: 'Comforter Brush', cursive;
 }
 
