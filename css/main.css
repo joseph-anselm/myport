@@ -40,3 +40,12 @@ body {
     max-height: 300px;
 
 }
+
+.header button {
+    margin-top: 0.5em;
+}
+
+.header button a {
+    color: #ffffff;
+    text-decoration: none;
+}
