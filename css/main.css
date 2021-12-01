@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -32,7 +34,9 @@ body {
     text-shadow: 2px 2px 8px #000000;
 }
 
-
+h2 {
+    font-family: 'Comforter Brush', cursive;
+}
 
 .content img {
 
